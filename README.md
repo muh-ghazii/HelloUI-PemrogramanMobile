@@ -14,4 +14,12 @@ Cara Menjalankan :
 5. Lakukan klik Run pada bagian atas atau menggunakan tombol Shift+F10
 6. Aplikasi berhasil dijalankan menggunakan emulator bawaan dari IDE <br>
 
-`<img src="Screenshoot1.png" width="300" />`
+### Images
+
+<p align="center">
+  <img src="Screenshot Aplikasi/Screenshoot1.png" width="300" />
+  <img src="Screenshot Aplikasi/Screenshoot2.png" width="300" />
+  <img src="Screenshot Aplikasi/Screenshoot3.png" width="300" />
+  <img src="Screenshot Aplikasi/Screenshoot4.png" width="300" /> 
+  <img src="Screenshot Aplikasi/Screenshoot5.png" width="300" />
+</p>
