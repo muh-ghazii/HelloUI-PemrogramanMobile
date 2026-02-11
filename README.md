@@ -17,9 +17,9 @@ Cara Menjalankan :
 ### Images
 
 <p align="center">
-  <img src="Screenshot Aplikasi/Screenshoot1.png" width="300" />
-  <img src="Screenshot Aplikasi/Screenshoot2.png" width="300" />
-  <img src="Screenshot Aplikasi/Screenshoot3.png" width="300" />
-  <img src="Screenshot Aplikasi/Screenshoot4.png" width="300" /> 
-  <img src="Screenshot Aplikasi/Screenshoot5.png" width="300" />
+  <img src="ScreenshotAplikasi/Screenshoot1.png" width="300" />
+  <img src="ScreenshotAplikasi/Screenshoot2.png" width="300" />
+  <img src="ScreenshotAplikasi/Screenshoot3.png" width="300" />
+  <img src="ScreenshotAplikasi/Screenshoot4.png" width="300" /> 
+  <img src="ScreenshotAplikasi/Screenshoot5.png" width="300" />
 </p>
