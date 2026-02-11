@@ -7,8 +7,8 @@ Deskripsi : Aplikasi ini merupakan aplikasi dengan menggunakan bahasa pemrograma
 ### Cara Menjalankan
 Cara Menjalankan : 
 1. Clone repository ini menggunakan terminal atau CMD
-   ```bash
-   git clone [https://github.com/muh-ghazii/HelloUI-PemrogramanMobile.git](https://github.com/muh-ghazii/HelloUI-PemrogramanMobile.git)
+   ```
+   git clone [https://github.com/muh-ghazii/HelloUI-PemrogramanMobile.git]
 3. Buka folder repository yang sudah diclone dengan menggunakan IDE Android Studio
 4. Tunggu proses Gradle Sync selesai.
 5. Lakukan klik Run pada bagian atas atau menggunakan tombol Shift+F10
